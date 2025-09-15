@@ -20,8 +20,8 @@ I love creating interesting projects and exploring new technologies. Here you'll
 
 ## 🌐 My Projects
 
-- [Мой сайт-портфолио](https://nikolaypaschenko.ru/)
-- [Все мои репозитории](https://github.com/RemDef?tab=repositories)
+- [Portfolio](https://nikolaypaschenko.ru/)
+- [All My Repositories](https://github.com/RemDef?tab=repositories)
 
 ## 📫 How to Reach Me
 
