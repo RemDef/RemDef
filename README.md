@@ -18,6 +18,8 @@ I love creating interesting projects and exploring new technologies. Here you'll
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemDef&layout=compact&theme=radical)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=anuraghazra&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🌐 My Projects
 
 - [Portfolio](https://nikolaypaschenko.ru/)
