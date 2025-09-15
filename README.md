@@ -26,7 +26,7 @@ I love creating interesting projects and exploring new technologies. Here you'll
 ## 📫 How to Reach Me
 
 - GitHub: [@RemDef](https://github.com/RemDef)
-
+- Telegram: [Remdef](https://t.me/R3m0r3)
 ---
 
 ⭐ If you like my projects - feel free to give them a star!
