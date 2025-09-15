@@ -14,8 +14,6 @@ I love creating interesting projects and exploring new technologies. Here you'll
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RemDef&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RemDef&layout=compact&theme=radical)
 
 ## 🌐 My Projects
